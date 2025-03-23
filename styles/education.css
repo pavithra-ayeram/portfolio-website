@@ -33,6 +33,7 @@ nav ul li a {
 }
 section {
     max-width: 500px;
+    min-width: 500px;
     margin: 20px auto;
     padding: 20px;
     background: white;
